@@ -1,3 +1,4 @@
+
 let num=7;
 letr count=0;
 for(let i=2;i<Math.sqrt(num);i++)
@@ -15,3 +16,4 @@ console.log(num,"is a Prime number");
 {
 console.log(num,"is Not Prime number");
 }
+
